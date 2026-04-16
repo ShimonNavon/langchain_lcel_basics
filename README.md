@@ -6,6 +6,7 @@
 </head>
 <body>
   <h1>LangChain LCEL Basics</h1>
+<img width="1633" height="949" alt="Screenshot 2026-04-16 at 2 11 17 PM" src="https://github.com/user-attachments/assets/7a35c4a4-2ed0-4cef-b29a-6b629c41ad6a" />
 
   <p>
     This is a very small learning project built to understand the basics of
